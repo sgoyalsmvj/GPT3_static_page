@@ -7,3 +7,4 @@ This project is a static React page that can be used as a starting point for bui
 - Component-based architecture: The codebase follows a component-based architecture, making it easy to manage and reuse UI elements throughout the project.
 - CSS styling: The page includes basic CSS styling using either CSS modules or styled components, providing flexibility for customizing the visual appearance.
 
+also Deployed on https://master--idyllic-bavarois-ebecac.netlify.app/
